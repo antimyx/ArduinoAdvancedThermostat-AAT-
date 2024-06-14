@@ -13,6 +13,7 @@ All you need is
 
 Project on easyeda.com
 
+https://oshwlab.com/dimafomichov/termostat_v002
 https://easyeda.com/editor#project_id=49af59bfd736434d93d97d466ad515b7
   
 ![20240614_171647](https://github.com/antimyx/ArduinoAdvancedThermostat-AAT-/assets/80818848/dea56e7a-7a1d-4d4d-b94a-0ce1db321fc6)
