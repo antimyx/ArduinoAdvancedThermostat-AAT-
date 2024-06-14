@@ -6,6 +6,8 @@ Presenting to you My variant of Universal Termocontrol.
 
 All you need is
 - arduino nano
+- Nokia 5110 display
+- 100kOm thermoprobe (thermoresistor)
 - x2 TLP627 OPTOCOUPLER (or similar)
 - x2, x3, x4 pin header connector (optional)
 
